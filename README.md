@@ -8,8 +8,10 @@ To get started, clone this repo and install the dependencies:
 
 git clone https://github.com/LamiaaIbrahim/adv-redux-cart.git
 
-## cd adv-redux-cart
+cd adv-redux-cart
+#
 npm install
+#
 npm start
 
 The app will be available at `http://localhost:3000`.
